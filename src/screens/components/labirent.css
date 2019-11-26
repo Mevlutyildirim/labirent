@@ -1,0 +1,39 @@
+
+.labirent{
+  display: flex;
+  flex-wrap: wrap;
+  width: 768px;
+  margin: 100px auto;
+}
+
+.labirent div{
+  width: 48px;
+  height: 48px;
+}
+.brick{
+  background-image: url('../../assets/brick.jpeg');
+  background-size: 100%;
+}
+
+.cheese{
+  background-image: url('../../assets/cheese.png');
+  background-size: 100%;
+}
+
+.mouse{
+  background-image: url('../../assets/mouse.jpeg');
+  background-size: 100%;
+}
+
+.mouse2{
+  background-image: url('../../assets/mouse2.jpg');
+  background-size: 100%;
+}
+
+.empty{
+  background-color: transparent;
+}
+
+#hidden{
+  opacity: 0.1;
+}
