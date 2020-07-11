@@ -1,4 +1,2 @@
 
-Labirent game written in react 
-
-graph and djkstra algorithm used to generatize computer ai
+Labirent game, which a mouse try to find sortest path to the cheese. ı use  graph and djkstra algorithm to accomplish this task
